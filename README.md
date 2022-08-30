@@ -27,7 +27,7 @@ Check out [BACKEND LIVE DEMO]() here!!
 1. Git Clone
 
 ```
-git clone https://github.com/AroundWorld1/Around-The-World.git
+git clone https://github.com/bikila2019/Around_The_World.git
 ```
 
 2. Backend setting
